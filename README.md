@@ -12,3 +12,5 @@ Finance. After establishing the initial cryptocurrency price model, the goal is 
 signals. 
 
 - The second part covers how sensitive ETH prices are to bitcoin (BTC) by conducting a lead-led analysis.
+
+### Codes are partially shown due to restrictions. Thank you for your understanding.
